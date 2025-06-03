@@ -9,7 +9,7 @@
 
 ## 📋 Tabla de Contenidos
 
-1. [Información del Sistema](#--información-del-sistema)
+1. [Información del Sistema](#-información-del-sistema)
 2. [Gestión de Archivos y Directorios](#-gestión-de-archivos-y-directorios)
 3. [Permisos y Propiedades](#-permisos-y-propiedades)
 4. [Gestión de Procesos](#-gestión-de-procesos)
