@@ -9,10 +9,10 @@
 
 ## 📋 Tabla de Contenidos
 
-1. [Información del Sistema](#-información-del-sistema)
+1. [Información del Sistema](#️-información-del-sistema)
 2. [Gestión de Archivos y Directorios](#-gestión-de-archivos-y-directorios)
 3. [Permisos y Propiedades](#-permisos-y-propiedades)
-4. [Gestión de Procesos](#-gestión-de-procesos)
+4. [Gestión de Procesos](#️-gestión-de-procesos)
 5. [Gestión de Usuarios y Grupos](#-gestión-de-usuarios-y-grupos)
 6. [Gestión de Paquetes](#-gestión-de-paquetes)
 7. [Gestión de Servicios](#-gestión-de-servicios)
@@ -21,7 +21,7 @@
 10. [Monitoreo del Sistema](#-monitoreo-del-sistema)
 11. [Logs del Sistema](#-logs-del-sistema)
 12. [Crontab y Tareas Programadas](#-crontab-y-tareas-programadas)
-13. [Compresión y Archivos](#-compresión-y-archivos)
+13. [Compresión y Archivos](#️-compresión-y-archivos)
 14. [Búsqueda y Filtrado](#-búsqueda-y-filtrado)
 15. [Transferencia de Archivos](#-transferencia-de-archivos)
 16. [Seguridad y Firewall](#-seguridad-y-firewall)
